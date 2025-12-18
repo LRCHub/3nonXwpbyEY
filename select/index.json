@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "星座になれたら",
+  "base_artist": "結束バンド",
+  "createdAt": "2025-12-18T15:24:17.019697Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星座になれたら",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/01_星座になれたら_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星座になれたら",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/02_星座になれたら_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星座になれたら -Anime Ver.-",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/03_星座になれたら_-Anime_Ver.-_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "星座になれたら -instrumental-",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/04_星座になれたら_-instrumental-_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "星座になれたら -恒星- Live ver.",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/05_星座になれたら_-恒星-_Live_ver._結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "星座になれたら -恒星- Live ver.",
+      "artist": "結束バンド (青山吉能, 鈴代紗弓, 水野朔, 長谷川育美)",
+      "has_synced": true,
+      "path": "select/06_星座になれたら_-恒星-_Live_ver._結束バンド_(青山吉能,_鈴代紗弓,_水野朔,_長谷川育美).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "星座になれたら - If I could be a constellation",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/07_星座になれたら_-_If_I_could_be_a_constellation_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "星座になれたら",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/08_星座になれたら_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "星座になれたら -恒星- Live ver.",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/09_星座になれたら_-恒星-_Live_ver._kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "星座になれたら",
+      "artist": "Kessoku Band",
+      "has_synced": true,
+      "path": "select/10_星座になれたら_Kessoku_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星座になれたら",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/pl_01_星座になれたら_結束バンド.txt"
+    }
+  ]
+}
